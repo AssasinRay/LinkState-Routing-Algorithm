@@ -1,0 +1,6 @@
+sending packet dest 1 nexthop 2 message sdasdasd
+sending packet dest 2 nexthop 3 message sdasdasd
+sending packet dest 3 nexthop 4 message sdasdasd
+forward packet dest 4 nexthop 5 message sdasdasd
+unreachable dest 111
+receive packet message sdasdasd
